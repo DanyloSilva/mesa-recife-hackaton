@@ -1,7 +1,14 @@
 {
+
+
+
+
+
   "name": "vuemap",
   "version": "0.1.0",
-  "private": true,
+  "private": true,  "engines": {
+    "node": "16.20.2"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
